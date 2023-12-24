@@ -5,7 +5,8 @@
 * PhD student at [Robotics group](https://www.informatik.uni-wuerzburg.de/robotics/) in Würzburg University. 
 Supervisor: [Prof. Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/robotics/team/nuechter/).
 
-🤔 My PhD interest is on the Dense SLAM with various sensors. Prior to my PhD, I also have experience on Rescue Robotics and Metrical & topological Mapping.
+🤔 My PhD focus is on the Dense SLAM with various sensors. 
+Prior to my PhD, I also have experience on Rescue Robotics and Metrical & topological Mapping.
 
 Please find my research projects [here](https://jarrome.github.io/).
 
