@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Yijun Yuan (元祎君) 
+
+🌱 Currently:
+
+* PhD student at [Robotics group](https://www.informatik.uni-wuerzburg.de/robotics/) in Würzburg University. 
+Supervisor: [Prof. Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/robotics/team/nuechter/).
+
+🤔 My PhD interest is on the Dense SLAM with various sensors. Prior to my PhD, I also have experience on Rescue Robotics and Metrical & topological Mapping.
+
+Please find my research projects [here](https://jarrome.github.io/).
+
 
 <!--
 **Jarrome/Jarrome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
