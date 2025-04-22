@@ -5,7 +5,7 @@
 
 😄 I received my PhD at [Robotics group](https://www.informatik.uni-wuerzburg.de/robotics/) in Würzburg University with the supervising of [Prof. Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/robotics/team/nuechter/).
 
-🔭 My PhD focus is on the Dense SLAM with various sensors. 
+🔭 My PhD focus is on the **Dense SLAM** with various sensors. My thesis content was published on journals **T-ROx2** and **RALx3**.
 
 🤔 Prior to my PhD, I also have experience on Rescue Robotics and Metrical & topological Mapping.
 
