@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yijun Yuan (元祎君) 
 
 🌱 Currently:
-* PostDoc in [MARS Tsinghua](https://group.iiis.tsinghua.edu.cn/~marslab/#/), leading by [Prof. Hang Zhao](https://hangzhaomit.github.io/).
+* PostDoc in [MARS Tsinghua](https://group.iiis.tsinghua.edu.cn/~marslab/#/), led by [Prof. Hang Zhao](https://hangzhaomit.github.io/).
 
 😄 I received my PhD at [Robotics group](https://www.informatik.uni-wuerzburg.de/robotics/) in Würzburg University with the supervising of [Prof. Andreas Nüchter](https://www.informatik.uni-wuerzburg.de/robotics/team/nuechter/).
 
